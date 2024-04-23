@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Selector Hub",
+  "version": "1.0",
+  "description": "ChroPath helps to generate and validate selectors like relative xpath with iframe, svg support. It also generates English test cases.",
+  "permissions": [
+    "activeTab"
+  ]
+}
+
